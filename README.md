@@ -5,6 +5,10 @@ go-v8platform
 [![ISC License](http://img.shields.io/badge/license-BSD-blue.svg)](http://copyfree.org)  
 [![Coverage Status](https://img.shields.io/coveralls/davecgh/go-spew.svg)](https://coveralls.io/r/khorevaa/go-v8platform?branch=master)
 
+ПРОЕКТ ПЕРЕХАЛ [https://github.com/v8platform](https://github.com/v8platform)
+
+ТЕКУЩИЙ СТАТУС: АРХИВ
+
 Реализация программного интерфейсом пакетного режима работы с 1С:Предприятием 8.x
 
 ## Документация
